@@ -1,0 +1,52 @@
+{
+  "mod_elements": [
+    {
+      "name": "Demonic",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demonic",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/keybindingtutorial/models/item/demonic_leggings.json",
+          "src/main/resources/assets/keybindingtutorial/models/item/demonic_boots.json",
+          "src/main/java/net/mcreator/keybindingtutorial/item/DemonicItem.java",
+          "src/main/resources/assets/keybindingtutorial/models/item/demonic_helmet.json",
+          "src/main/resources/assets/keybindingtutorial/models/item/demonic_chestplate.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.keybindingtutorial.demonic_helmet": "Demonic Helmet",
+      "item.keybindingtutorial.demonic_boots": "Demonic Boots",
+      "item.keybindingtutorial.demonic_chestplate": "Demonic Chestplate",
+      "item.keybindingtutorial.demonic_leggings": "Demonic Leggings"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "keybindingtutorial",
+    "modName": "keybindingtutorial",
+    "version": "1.0.0",
+    "author": "osamukigoshi, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.keybindingtutorial",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}
