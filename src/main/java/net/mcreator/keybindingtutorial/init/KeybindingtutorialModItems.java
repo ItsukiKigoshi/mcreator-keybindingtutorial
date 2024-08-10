@@ -19,4 +19,6 @@ public class KeybindingtutorialModItems {
 	public static final RegistryObject<Item> DEMONIC_CHESTPLATE = REGISTRY.register("demonic_chestplate", () -> new DemonicItem.Chestplate());
 	public static final RegistryObject<Item> DEMONIC_LEGGINGS = REGISTRY.register("demonic_leggings", () -> new DemonicItem.Leggings());
 	public static final RegistryObject<Item> DEMONIC_BOOTS = REGISTRY.register("demonic_boots", () -> new DemonicItem.Boots());
+	// Start of user code block custom items
+	// End of user code block custom items
 }

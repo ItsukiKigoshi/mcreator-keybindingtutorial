@@ -21,7 +21,6 @@ public class KeybindingtutorialModTabs {
 
 	@SubscribeEvent
 	public static void buildTabContentsVanilla(BuildCreativeModeTabContentsEvent tabData) {
-
 		if (tabData.getTabKey() == CreativeModeTabs.COMBAT) {
 			tabData.accept(KeybindingtutorialModItems.DEMONIC_HELMET.get());
 			tabData.accept(KeybindingtutorialModItems.DEMONIC_CHESTPLATE.get());
